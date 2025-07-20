@@ -2,12 +2,6 @@
 
 A reusable React component to select recurring dates with different repeat types like Daily, Weekly, Monthly, and Yearly.
 
-# Live Demo
-[View on CodeSandbox](https://codesandbox.io/p/github/YourUsername/recurring-date-picker-component)
-
-#Loom Video Walkthrough
-[Loom Video](https://www.loom.com/share/your-loom-link)
-
 # Features
 
 - Select repeat type: Daily, Weekly, Monthly, Yearly
